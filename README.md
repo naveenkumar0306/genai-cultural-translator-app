@@ -30,8 +30,8 @@
 
 ## 🖼️ Demo
 
-![Video](assets/demo.mov)  
-*Or watch the attached demo video in the repo.*
+  
+watch this attached demo video in the repo [Video](assets/cultural_translator.mov)
 
 ---
 
@@ -82,17 +82,5 @@ streamlit run app.py
 OPENAI_API_KEY=your-openai-key
 SERPAPI_API_KEY=your-serpapi-key
 ```
-
----
-
-## 🤝 Acknowledgements
-
-Inspired by cross-cultural experiences and powered by the open-source GenAI community.
-
----
-
-## 📬 Want to Collaborate?
-
-Feel free to fork, improve, or contribute! If you have suggestions on enhancing the cultural database or UX, open an issue or PR.
 
 ---
