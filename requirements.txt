@@ -1,0 +1,11 @@
+openai
+streamlit
+python-dotenv
+langchain>=0.1.0
+langchain-community>=0.0.20
+faiss-cpu
+docx2txt
+tqdm
+tiktoken
+google-search-results
+langchain-openai
